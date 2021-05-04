@@ -1,3 +1,8 @@
+####################################################
+# Day 40 - Sheety Users code is here:              #
+# https://replit.com/@SadSack963/day-40flightusers #
+####################################################
+
 import sheety
 
 print("Welcome to John's Flight Club.\n \

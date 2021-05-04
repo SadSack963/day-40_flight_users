@@ -1,6 +1,8 @@
 import requests
 import os
+from dotenv import load_dotenv
 
+load_dotenv("E:/Python/EnvironmentVariables/.env")
 BEARER = os.getenv("API_Bearer_Sheety_Repl.it")
 USERNAME = os.getenv("API_Username_Sheety")
 PROJECT = "flightDealsUsers"
